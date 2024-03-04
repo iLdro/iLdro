@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a software and system test dev at Valeo (Developping an automatic testsuite for ATB4s)
 - 🌱 I’m currently learning C++, VueJS, embded system technologies
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iLdro&show_icons=true&locale=en" alt="iLdro-stat" /></p>
+<div align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iLdro&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=11&theme=dracula&hide_border=true" height="300" alt="iLdro's langage"/></div>
